@@ -1,1 +1,2 @@
-WorkWithArrays. Python tutorials. Arrays. Console Application. Simple Input/Output. 
+WorkWithArrays. Python tutorials. Simple Input/Output. Arrays. Console Application. 
+WorkWithArrays. Занятия по Python. Простой ввод-вывод. Массивы. Консольное приложение.
